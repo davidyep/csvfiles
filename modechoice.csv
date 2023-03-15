@@ -1,0 +1,11 @@
+﻿Trip Purpose,Home,Work,School,Child pick up/drop off,Visiting friends and family,Shopping/errands,Visiting nearby recreational green spaces,Religious services,Visting Restaurants/bars/social venues,Just passing through the area,Community services,Medical appointments
+Walk,0.17,0.20,0.01,0.03,0.24,0.67,0.26,0.03,0.46,0.26,0.04,0.21
+Drive alone,0.01,0.03,0.00,0.00,0.03,0.04,0.01,0.01,0.03,0.04,0.00,0.02
+Drive with someone (carpool/picked up),0.01,0.04,0.00,0.01,0.05,0.07,0.02,0.01,0.07,0.05,0.00,0.03
+For hire vehicle (Uber/Lyft/taxi/etc.),0.01,0.01,0.00,0.01,0.02,0.04,0.01,0.01,0.05,0.04,0.00,0.02
+Subway,0.05,0.16,0.00,0.01,0.18,0.40,0.14,0.01,0.31,0.14,0.00,0.09
+Bus,0.02,0.04,0.00,0.01,0.05,0.09,0.05,0.00,0.07,0.03,0.00,0.03
+Personal bike,0.02,0.05,0.00,0.00,0.05,0.15,0.07,0.00,0.10,0.12,0.00,0.01
+Bike share,0.02,0.05,0.00,0.00,0.07,0.16,0.09,0.01,0.13,0.10,0.00,0.01
+E-Scooter,0.00,0.01,0.00,0.00,0.00,0.01,0.00,0.00,0.00,0.02,0.00,0.00
+Access-A-Ride,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
